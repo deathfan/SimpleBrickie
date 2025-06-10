@@ -15,6 +15,14 @@
 
 <br>
 
+**Установка**
+1) Скачиваем актуальный <a href=https://github.com/deathfan/SimpleBrickie/releases>релиз</a>
+2) Распаковываем архив в любое место.
+3) Запускаем SimpleBrickie.exe.
+4) Profit!
+
+<br>
+
 **English**
 
 Easily create multiple blocking rules in Windows Firewall via a user-friendly GUI
