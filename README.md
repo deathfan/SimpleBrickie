@@ -17,7 +17,7 @@
 <br>
 
 **Установка**
-1) Скачиваем актуальный <a href=https://github.com/deathfan/SimpleBrickie/releases>релиз</a>
+1) Скачиваем архив с актуальным <a href=https://github.com/deathfan/SimpleBrickie/releases>релизом</a>.
 2) Распаковываем архив в любое место.
 3) Запускаем SimpleBrickie.exe.
 4) Profit!
@@ -42,7 +42,7 @@ Then press "Create rules" and here we go! You may start wf.msc snap-in by "Windo
 <br>
 
 **Installation**
-1) Download the latest <a href=https://github.com/deathfan/SimpleBrickie/releases>release</a>
+1) Download the archive with the latest <a href=https://github.com/deathfan/SimpleBrickie/releases>release</a>.
 2) Unpack the archive to any place.
 3) Run SimpleBrickie.exe.
 4) Profit!
